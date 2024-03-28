@@ -6,7 +6,7 @@ Welcome to the Dining Philosophers Problem repository! This project provides a s
 
 ## Problem Description
 
-The Dining Philosophers Problem revolves around a dining table with a specific number of philosophers, typically five, seated around it. Each philosopher can be in one of two states: thinking or eating. To eat, a philosopher needs two chopsticks, one in each hand.
+The Dining Philosophers Problem revolves around a dining table with a specific number of philosophers, typically five, seated around it. Each philosopher can be in one of three states: thinking sleeping or eating. To eat, a philosopher needs two chopsticks, one in each hand.
 
 The challenge arises when multiple philosophers attempt to acquire chopsticks simultaneously, potentially leading to deadlock situations. Deadlock occurs when each philosopher holds one chopstick and waits indefinitely for the other, resulting in a standstill where no philosopher can make progress.
 
