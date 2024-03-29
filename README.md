@@ -26,4 +26,4 @@ The implementation employs C language features, such as threads and mutexes, to 
 To build and run the Dining Philosophers simulation, compile the source files using a C compiler:
 
 ```bash
-https://github.com/abdebennar/Philosophers.git
+git clone https://github.com/abdebennar/Philosophers.git
