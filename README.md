@@ -1,3 +1,5 @@
+![Alt text](.img/philo.png)
+
 # Dining Philosophers Problem (C Implementation)
 
 ## Introduction
